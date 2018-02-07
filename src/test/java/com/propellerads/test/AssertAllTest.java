@@ -32,7 +32,7 @@ public class AssertAllTest {
     @Environment(PROD)
     @TestCaseId(104)
     @Test
-    void checkAllFieldsVisivle() {
+    void checkAllFieldsVisible() {
         open(config.getBaseUrl() + "/#/app/auth/signUp");
         assertAll(
                 () -> assertTrue($("#firstName").is(visible)),
