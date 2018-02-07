@@ -1,0 +1,16 @@
+# IntellijIdea
+.idea
+*.iml
+target
+build
+
+# Class #
+*.class
+
+# Package Files #
+*.jar
+*.war
+*.ear
+
+# JVM logs #
+hs_err_pid*

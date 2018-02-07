@@ -1,0 +1,27 @@
+[
+  {
+    "testCaseId": 101,
+    "users": [
+      {
+        "login": "margaritest55@mailinator.com",
+        "password": "123456",
+        "state": "DISABLED"
+      },
+      {
+        "login": "margaritest40@mailinator.com",
+        "password": "123456",
+        "state": "LOCKED"
+      }
+    ]
+  },
+  {
+    "testCaseId": 102,
+    "users": [
+      {
+        "login": "margaritest55@mailinator",
+        "password": "123456",
+        "state": "DISABLED"
+      }
+    ]
+  }
+]
